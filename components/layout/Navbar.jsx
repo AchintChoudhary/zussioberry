@@ -24,8 +24,8 @@ const Navbar = () => {
         
         <div className="flex items-center">
           <img
-            src="https://zussioberry.com/images/zussioberry_logo.png"
-            className="w-[140px] h-[60px] object-contain"
+            src="/tek.png"
+            className="w-[120px] h-[110px] object-contain"
             alt="Zussio Berry"
           />
         </div>
